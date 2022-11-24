@@ -65,3 +65,18 @@ iframe#tela{
     height: 373px;
     width: 215px;
 }
+footer{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    background-color: black;
+}
+footer > p > a {
+    color: white;
+    font-weight: lighter;
+    text-decoration: none;
+}
+footer > p >a:hover{
+    text-decoration: underline;
+}
